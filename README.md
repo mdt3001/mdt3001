@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Thinh  
+# 👋 Hello World! 
 
 
 ## 🌐 Socials:
