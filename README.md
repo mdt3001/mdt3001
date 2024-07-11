@@ -1,4 +1,5 @@
 # 💫 About Me:
+University of Information Technology<br>
 
 
 ## 🌐 Socials:
@@ -11,8 +12,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mdt3001&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdt3001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mdt3001&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mdt3001&icon=0&color=0)](https://visitcount.itsvg.in)
