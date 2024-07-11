@@ -1,5 +1,4 @@
 # 💫 About Me:
-University of Information Technology<br>
 
 
 ## 🌐 Socials:
