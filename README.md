@@ -2,7 +2,7 @@
 
 Software Engineer Intern | IT Student at VNUHCM - University of Information Technology (UIT)
 
-I am a passionate 3rd-year Information Technology student with a strong foundation in Fullstack Development. I enjoy building scalable web and mobile applications that solve real-world problems. My goal is to become a professional Software Engineer where I can contribute to impactful projects while continuously learning.
+I am a passionate 4th-year Information Technology student with a strong foundation in Fullstack Development. I enjoy building scalable web and mobile applications that solve real-world problems. My goal is to become a professional Software Engineer where I can contribute to impactful projects while continuously learning.
 
 ### 🚀 Quick Summary
 - 🎓 Currently pursuing a Bachelor of IT at **University of Information Technology** (GPA: 3.2/4.0).
