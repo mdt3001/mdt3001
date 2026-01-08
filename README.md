@@ -25,10 +25,11 @@ I am a passionate 3rd-year Information Technology student with a strong foundati
 ---
 
 ### 📫 Connect with me
-- **Email:** [maiducthinh30012004@gmail.com](mailto:maiducthinh30012004@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/th%E1%BB%8Bnh-mai-%C4%91%E1%BB%A9c-53050a3a3/]
-- **Facebook:** [facebook.com/your-profile]
-- **Portfolio:** [green-mart-fe.vercel.app](https://green-mart-fe.vercel.app)
+- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mai.uc.thinh.275153/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th%E1%BB%8Bnh-mai-%C4%91%E1%BB%A9c-53050a3a3/)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/mdt3001/mdt3001/blob/main/InternCV.pdf)
+- [cite_start]✉️ Email: [maiducthinh30012004@gmail.com](mailto:maiducthinh30012004@gmail.com) 
+- [cite_start]📱 Phone: 0768804957
 
 ---
 
